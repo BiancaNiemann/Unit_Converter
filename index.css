@@ -51,6 +51,10 @@ body {
     margin-bottom: 30px;
 }
 
+#convert-btn:hover {
+    cursor: pointer;
+}
+
 .metric-box {
     display: flex;
     flex-direction: column;
