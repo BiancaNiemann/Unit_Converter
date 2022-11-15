@@ -55,6 +55,10 @@ body {
     cursor: pointer;
 }
 
+#convert-btn:active {
+    box-shadow: 5px 10px;
+}
+
 .metric-box {
     display: flex;
     flex-direction: column;
